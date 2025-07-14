@@ -1,3 +1,4 @@
+# main code
 from PyPDF2 import PdfWriter
 merger = PdfWriter()
 pdfs=[]
